@@ -2,8 +2,6 @@
 
 A networked world interaction system for clickable and draggable actors.
 
-This is currently the strongest multiplayer-focused portfolio example in the repository.
-
 ![World cursor drag and drop](../../screenshots/Image_DragAndDrop_1.png)
 
 ## Status
