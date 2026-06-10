@@ -1,6 +1,6 @@
 # Lost Signal / Lost in Abyss — Unreal Engine Technical Portfolio
 
-![Project overview](screenshots/Image_Playground_1.png)
+![Project overview](screenshots/Image_Inventory_2.png)
 
 This repository is a public technical portfolio based on selected systems from my independent Unreal Engine project.
 
