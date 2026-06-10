@@ -18,8 +18,6 @@ It is **not a full project source release**. The purpose of this repository is t
 
 ## Best Code to Review First
 
-These are the strongest portfolio examples in the repository.
-
 | System | Why it matters | Start here |
 |---|---|---|
 | **Networked World Cursor & Drag/Drop** | Client-side prediction, server-authoritative validation, reconciliation, replicated clickable/draggable state | [System case](docs/systems/networked-world-cursor.md) |
@@ -61,8 +59,6 @@ For a technical review, I recommend this order:
 3. Check [World Markers Spatial Query](docs/systems/world-markers-system.md) for subsystem and query design.
 4. Use the devlog only as historical context, not as the main portfolio entry point.
 
-The devlog is intentionally secondary. The main hiring signal is in the system case studies.
-
 ---
 
 ## Devlog Archive
@@ -72,20 +68,3 @@ The devlog is intentionally secondary. The main hiring signal is in the system c
 - [April 2026](docs/devlog/2026-04.md)
 - [March 2026](docs/devlog/2026-03.md)
 - [February 2026](docs/devlog/2026-02.md)
-
----
-
-## Adding New Systems
-
-Use the portfolio template and keep every new system page structured around the same review flow:
-
-- problem
-- constraints
-- architecture
-- source files
-- networking/authority model, if applicable
-- trade-offs
-- known limitations
-- next steps
-
-Template: [System Case Template](docs/portfolio/system-case-template.md)
