@@ -1,4 +1,4 @@
-# Lost Signal / Lost in Abyss — Unreal Engine Technical Portfolio
+# Lost in Abyss — Unreal Engine Technical Portfolio
 
 ![Project overview](screenshots/Image_Inventory_2.png)
 
@@ -12,7 +12,7 @@ It is **not a full project source release**. The purpose of this repository is t
 - **Project type:** Co-op gameplay prototype
 - **Focus areas:** Gameplay systems, multiplayer interaction, replication, data-driven architecture, Common UI, custom subsystems
 
-> Note: the gameplay direction started as **Lost Signal** and later began transitioning toward **Lost in Abyss**. This repository focuses on the technical systems and engineering decisions, not on presenting a finished game loop.
+> Note: This repository focuses on the technical systems and engineering decisions, not on presenting a finished game loop.
 
 ---
 
